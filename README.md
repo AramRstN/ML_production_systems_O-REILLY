@@ -12,5 +12,5 @@ This repository contains Jupyter notebooks that explore concepts from *Machine L
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-username/Machine-Learning-Production-Systems.git
-cd Machine-Learning-Production-Systems
+gh repo clone AramRstN/ML_production_systems_O-REILLY
+cd ML_production_systems_O-REILLY
